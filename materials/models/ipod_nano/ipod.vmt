@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\iPod_nano\iPod"
+	"$selfillum" 1
+}
